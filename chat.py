@@ -1,6 +1,6 @@
 import openai
 
-openai.api_key = "sk-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"
+openai.api_key = "key"
 
 chat_history = []
 
